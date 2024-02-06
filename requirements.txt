@@ -1,0 +1,13 @@
+gdown
+requests 
+bs4 
+pandas 
+torch 
+transformers 
+scipy 
+scikit-learn 
+rouge-score 
+rouge 
+streamlit 
+ydata-profiling 
+streamlit-pandas-profiling
